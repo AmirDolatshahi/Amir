@@ -2,11 +2,11 @@
 
 <h3 align="center">I am a front end developer from Iran.</h3>
 
--I’m currently learning **NextJs**
+-*I’m currently learning* **NextJs**
 
-- 💬 Ask me about **CSS, JavaScript, ReactJS**
+- *💬 Ask me about* *CSS, JavaScript, ReactJS*
 
-- 📫 To contact me "amirdolatshahi@gmail.com"
+- *📫 To contact me "amirhdolatshahi@gmail.com"*
   
 ### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
