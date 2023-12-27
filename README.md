@@ -4,7 +4,7 @@
 
 -*I’m currently learning* **"NextJs"**
 
--*💬 Ask me about* **"CSS, JavaScript, ReactJS"**
+-*💬 Ask me about* **"CSS, JavaScript, ReactJS..."**
 
 -**📫 To contact me:**
   
