@@ -4,9 +4,9 @@
 
 -*I’m currently learning* **"NextJs"**
 
-- *💬 Ask me about* **"CSS, JavaScript, ReactJS"**
+-*💬 Ask me about* **"CSS, JavaScript, ReactJS"**
 
-- *📫 To contact me:*
+-*📫 To contact me:*
   
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) "amirhdolatshahi@gmail.com"
   
