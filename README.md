@@ -6,7 +6,8 @@
 
 - *💬 Ask me about* **CSS, JavaScript, ReactJS**
 
-- *📫 To contact me* **"amirhdolatshahi@gmail.com"**
+- *📫 To contact me:*
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **"amirhdolatshahi@gmail.com"**
   
 ### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
@@ -23,3 +24,4 @@
 ### Other 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/_-SASS-A53B70.svg?style=for-the-badge)
