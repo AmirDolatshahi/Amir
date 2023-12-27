@@ -2,9 +2,9 @@
 
 <h3 align="center">I am a front-end developer and editor from Iran.</h3>
 
--*I’m currently learning* **NextJs**
+-*I’m currently learning* **"NextJs"**
 
-- *💬 Ask me about* **CSS, JavaScript, ReactJS**
+- *💬 Ask me about* **"CSS, JavaScript, ReactJS"**
 
 - *📫 To contact me:*
   
