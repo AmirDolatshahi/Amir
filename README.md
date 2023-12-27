@@ -21,7 +21,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 
 ### Other 
-Vite:
-https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
-Tailwind CSS:
-https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
