@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
 
-<h3 align="center">I am a front end developer from Iran.</h3>
+<h3 align="center">I am a front-end developer and editor from Iran.</h3>
 
 -*I’m currently learning* **NextJs**
 
